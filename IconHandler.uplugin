@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2023.1.1",
+	"FriendlyName": "Icon Handler",
+	"Description": "Lets you add custom icons for classes.",
+	"Category": "Editor",
+	"CreatedBy": "W2Wizard",
+	"CreatedByURL": "https://portfolio.w2wizard.dev/",
+	"DocsURL": "https://www.notion.so/Icon-Handler-Docs-312200298290465cb012deaafd3bed4e",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8ab50c0d12f0427b847a443f8dfd7f94",
+	"SupportURL": "https://portfolio.w2wizard.dev/",
+	"EngineVersion": "5.2",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "IconHandler",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
