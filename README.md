@@ -5,15 +5,9 @@
 </div>
 <div align="center">
   <sub>UE4/5 Plugin to allow customized asset icons for C++ Classes.</sub>
-  </br>
   <sub>Written by <a href="https://portfolio.w2wizard.dev/">W2.Wizard</a></sub>
-    <div align="center">
-	  </br>
-    <img src="https://svgshare.com/i/Zhy.svg" alt="Linux">
-    <img src="https://svgshare.com/i/ZjP.svg" alt="MacOS">
-    <img src="https://svgshare.com/i/ZhY.sv" alt="Windows">
-    </div>
 </div>
+</br>
 
 Simply adds the ability to define custom icons very easily for any custom classes via the project settings, without having to write tedious amount of C++ for creating a custom style.
 
